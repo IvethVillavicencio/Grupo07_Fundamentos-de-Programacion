@@ -1,0 +1,5 @@
+MED001|Paracetamol|Analgésico|Genfar|5.50|97|2027-12-15
+MED002|Ibuprofeno|Antiinflamatorio|Genfar|8.50|55|2028-08-20
+MED003|Amoxicilina|Antibiótico|Medifarma|12.00|40|2028-06-15
+MED004|Loratadina|Antialérgico|Farmindustria|6.00|4|2027-03-10
+MED005|Omeprazol|Protector gástrico|Medifarma|9.00|35|2028-11-25
